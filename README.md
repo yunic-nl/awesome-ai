@@ -534,6 +534,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Mmhmm](https://www.mmhmm.app/) — AI presentation and async video.
 * [MetaTown](https://metatown.ai/) — virtual office and meeting environment with AI agents.
 * [Around](https://www.around.co/) — AI-enhanced video calls (compact tiles).
+* [Voicetask](https://voicetask.nl/) — AI-chat for your website or webshop, EU GDPR friendly.
 
 ### AI Search
 
